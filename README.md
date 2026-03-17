@@ -18,13 +18,13 @@
 <h3 id="started">🚀 Lista de Exercícios (01)</h3>
 
 Conceitos Básicos de Programação
-- Realiza a leitura de 2 floatse imprime as seguintes operações: soma, subtração, multiplicação, divisão e resto da divisão
-- Realiza a leitura de 1 inte imprime o seu antecessor e o seu sucessor
-- Realiza a leitura de 1 inte imprime o dobro,triploe metade do valor lido
-- Realiza a leitura de 3 floatse imprime a média aritmética
-- Realiza a leitura de 1 floatreferente ao valor de um produto e imprime o valor com descontos de 10%, 20% e 50%
-- Realiza a leitura de 1 floatreferente ao salário do cidadão e apresenta o salário com reajuste de 10% da inflação
-- Realiza a leitura de 1 inte apresenta se ele é par ou ímpar
+- Realiza a leitura de 2 floats e imprima as seguintes operações: soma, subtração, multiplicação, divisão e resto da divisão
+- Realiza a leitura de 1 int e imprima o seu antecessor e o seu sucessor
+- Realiza a leitura de 1 int e imprima o dobro,triploe metade do valor lido
+- Realiza a leitura de 3 floats e imprima a média aritmética
+- Realiza a leitura de 1 float referente ao valor de um produto e imprime o valor com descontos de 10%, 20% e 50%
+- Realiza a leitura de 1 float referente ao salário do cidadão e apresenta o salário com reajuste de 10% da inflação
+- Realiza a leitura de 1 int e apresente se ele é PAR ou IMPAR
 
 Condicionais (IF, Elif e Else)
 - 8 Faça um programa que pede duas notas de um aluno. Em seguida ele deve calcular a média do aluno e dar o seguinte
