@@ -27,7 +27,7 @@ Conceitos Básicos de Programação
 - Realiza a leitura de 1 int e apresente se ele é PAR ou IMPAR
 
 Condicionais (IF, Elif e Else)
-- 8 Faça um programa que pede duas notas de um aluno. Em seguida ele deve calcular a média do aluno e dar o seguinte
+- Faça um programa que pede duas notas de um aluno. Em seguida ele deve calcular a média do aluno e dar o seguinte
 resultado:
 
 • A mensagem "Aprovado", se a média alcançada for maior ou igual a sete;
