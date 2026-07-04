@@ -27,7 +27,7 @@ Conceitos Básicos de Programação
 - Realiza a leitura de 1 int e apresente se ele é PAR ou IMPAR
 
 Condicionais (IF, Elif e Else)
-- 8 Faça um programa que pede duas notas de um aluno. Em seguida ele deve calcular a média do aluno e dar o seguinte
+Faça um programa que pede duas notas de um aluno. Em seguida ele deve calcular a média do aluno e dar o seguinte
 resultado:
 
 • A mensagem "Aprovado", se a média alcançada for maior ou igual a sete;
@@ -58,6 +58,34 @@ Após o aumento ser realizado, informe na tela:
 • o valor do aumento;
 
 • o novo salário, após o aumento.
+
+<h3 id="started">🚀 Lista de Exercícios (02)</h3>
+
+Conceitos Básicos de Programação
+- Faça um programa que mostre a mensagem "Alo Mundo" na tela.
+- Faça um programa que peça um número e então mostre a mensagem "O número informado foi {numero}"
+- Faça um prograna que peça dois números e imprima a soma.
+- Faça um programa que peça as 4 notas bimestrais e mostre a média.
+- Faça um programa que converta metros para centímetros
+- Faça um programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
+- Faça um programa que pergunte o quando você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
+- Faça um programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius (C =  * (F-32)/9).
+- Faça um programa uqe peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.
+- Faça um prograna que peça dois números inteiros e um número real. Calcule e mostre: (O produto do dobro do primeiro com metade do segundo, A soma do triplo do primeiro com o terceiro, O terceiro elevado ao cubo)
+- Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcula seu peso ideal, utilizando as seguintes fórmulas: (Homens: (72.7*h)-58 Mulheres: (62.1*h)-44.7).
+- João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o rendimento diário de seu trabalho. Toda vez que
+ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do estado de São Paulo (50 quilos) deve pagar uma multa
+de R$ 4,00 por quilo excedente. João precisa que você faça um programa que leia a variável peso (peso de peixes) e calcule o excesso.
+Gravar na variável excesso a quantidade de quilos além do limite e na variável multa o valor da multa que João deverá pagar. Imprima os
+dados do programa com as mensagens adequadas.
+- Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu
+salário no referido mês, sabendo-se que são descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato, faça um
+programa que nos dê:
+• salário bruto.
+• quanto pagou ao INSS.
+• quanto pagou ao sindicato.
+• o salário líquido.
+• calcule os descontos e o salário líquido, conforme a tabela à direita
 
 <h3>Pre-Requisitos</h3>
 
